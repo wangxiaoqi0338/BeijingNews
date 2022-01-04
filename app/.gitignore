@@ -1,0 +1,10 @@
+File:EventBusDemo.iws
+File:.idea/workspace.xml
+Directory:.gradle/
+Directory:.idea/
+Directory:build/
+Directory:app/build/
+File:local.properties
+Mask:*.iml
+/captures
+.DS_Store

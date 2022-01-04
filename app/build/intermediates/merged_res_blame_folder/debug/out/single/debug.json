@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_smartservice.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\smartservice.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_news_detail.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_guide_1.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\guide_1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_tabdetail_pager.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\tabdetail_pager.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_rb_setting_drawable_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\rb_setting_drawable_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_point_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\point_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon_150.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-mdpi\\icon_150.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_item_tabdetail_pager.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\item_tabdetail_pager.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_news_cate_arr.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\news_cate_arr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_rb_smartservice_drawable_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\rb_smartservice_drawable_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_pic_grid_type.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\icon_pic_grid_type.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_dot_focus.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\dot_focus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_back.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_rb_govaffair_drawable_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\rb_govaffair_drawable_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_base_pager.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\base_pager.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_news_comment_num.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\icon_news_comment_num.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_red_pressed.9.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\button_red_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_newsmenu_detail_pager.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\newsmenu_detail_pager.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_guide_2.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\guide_2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_share.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\icon_share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_govaffair_press.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\govaffair_press.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_pic_list_type.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\icon_pic_list_type.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_point_red.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\point_red.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_text_drawable_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\bottom_text_drawable_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_rb_home_drawable_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\rb_home_drawable_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_splash_sheep_newyear.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\splash_sheep_newyear.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bottom_tab_bg.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\bottom_tab_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_dot_normal.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\dot_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_start_main_textcolor_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\btn_start_main_textcolor_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_newscenter_press.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\newscenter_press.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_menu_arr_select.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\menu_arr_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_item_photos_menudetail_pager.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\item_photos_menudetail_pager.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_photos_menudetail_pager.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\photos_menudetail_pager.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_news_pic_default.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\news_pic_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_textsize.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\icon_textsize.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_setting_press.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\setting_press.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_item_photos_menu_detail_pager_bg.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\item_photos_menu_detail_pager_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_item_leftmenu_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\item_leftmenu_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_img_menu.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\img_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_guide.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_rb_newscenter_drawable_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\rb_newscenter_drawable_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_tab_item.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\tab_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_title_red_bg.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\title_red_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_guide_3.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\guide_3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_newscenter.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\newscenter.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_menu_arr_normal.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\menu_arr_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_scroll_default.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\home_scroll_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_red_normal.9.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\button_red_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_smartservice_press.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\smartservice_press.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_leftmenu.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\activity_leftmenu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_splash_bg_newyear.jpg.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\splash_bg_newyear.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_press.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\home_press.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_topnews.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\topnews.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_govaffair.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\govaffair.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_start_main_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\btn_start_main_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_titlebar.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_item_leftmenu_textcolor_selector.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\item_leftmenu_textcolor_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_setting.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home.png.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_item_leftmenu.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\item_leftmenu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rightmenu.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\activity_rightmenu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\layout_content_fragment.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\layout\\content_fragment.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\BeijingNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_point_normal.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\BeijingNews\\app\\src\\main\\res\\drawable\\point_normal.xml"
+    }
+]

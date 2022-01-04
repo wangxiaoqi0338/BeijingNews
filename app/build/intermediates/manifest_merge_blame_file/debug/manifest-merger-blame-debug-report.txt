@@ -1,0 +1,341 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.beijingnews"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:6:5-67
+11-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:7:5-81
+12-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:8:5-79
+13-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:8:22-77
+14
+15    <permission
+15-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:9:5-11:47
+16        android:name="com.example.beijingnews.permission.JPUSH_MESSAGE"
+16-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:10:9-72
+17        android:protectionLevel="signature" />
+17-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:11:9-44
+18
+19    <!-- Required  一些系统要求的权限，如访问网络等 -->
+20    <uses-permission android:name="com.example.beijingnews.permission.JPUSH_MESSAGE" />
+20-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:14:5-88
+20-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:14:22-85
+21    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+21-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:15:5-79
+21-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:15:22-76
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:6:5-67
+22-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:6:22-64
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:17:5-68
+23-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:17:22-65
+24    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+24-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:18:5-75
+24-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:18:22-72
+25    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+25-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:7:5-81
+25-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:7:22-78
+26    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+26-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:8:5-79
+26-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:8:22-77
+27    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+27-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:21:5-22:47
+27-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:21:22-70
+28    <uses-permission android:name="android.permission.VIBRATE" />
+28-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:23:5-66
+28-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:23:22-63
+29    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+29-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:24:5-25:47
+29-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:24:22-81
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:26:5-79
+30-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:26:22-76
+31    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+31-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:27:5-76
+31-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:27:22-73
+32
+33    <!-- Optional for location -->
+34    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+34-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:32:5-81
+34-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:32:22-78
+35    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+35-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:33:5-76
+35-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:33:22-73
+36    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+36-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:34:5-79
+36-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:34:22-76
+37    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+37-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:35:5-89
+37-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:35:22-86
+38    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+38-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:36:5-79
+38-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:36:22-76
+39    <uses-permission android:name="android.permission.GET_TASKS" />
+39-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:37:5-68
+39-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:37:22-65
+40
+41    <application
+41-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:38:5-164:19
+42        android:name="com.example.beijingnews.BeijingNewsApplication"
+42-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:39:9-47
+43        android:allowBackup="true"
+43-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:40:9-35
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.3.1] C:\Users\123\.gradle\caches\transforms-3\d2d82602dbe4e040fb47b7f3d4ad9d83\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+45        android:debuggable="true"
+46        android:icon="@mipmap/icon_150"
+46-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:41:9-40
+47        android:label="@string/app_name"
+47-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:42:9-41
+48        android:roundIcon="@mipmap/icon_150"
+48-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:43:9-45
+49        android:supportsRtl="true"
+49-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:44:9-35
+50        android:testOnly="true"
+51        android:theme="@style/Theme.BeijingNews" >
+51-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:45:9-49
+52        <activity
+52-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:46:9-48:39
+53            android:name="com.example.beijingnews.activity.NewsDetailActivity"
+53-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:47:13-56
+54            android:exported="true" />
+54-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:48:13-36
+55        <activity
+55-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:49:9-51:39
+56            android:name="com.example.beijingnews.activity.MainActivity"
+56-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:50:13-50
+57            android:exported="true" />
+57-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:51:13-36
+58        <activity
+58-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:52:9-54:39
+59            android:name="com.example.beijingnews.activity.GuideActivity"
+59-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:53:13-51
+60            android:exported="true" />
+60-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:54:13-36
+61        <activity
+61-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:55:9-63:20
+62            android:name="com.example.beijingnews.SplashActivity"
+62-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:56:13-43
+63            android:exported="true" >
+63-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:57:13-36
+64            <intent-filter>
+64-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:58:13-62:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:59:17-69
+65-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:59:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:61:17-77
+67-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:61:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:65:9-69:20
+71            android:name="cn.jpush.android.ui.PopWinActivity"
+71-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:66:13-62
+72            android:exported="false"
+72-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:68:13-37
+73            android:theme="@style/MyDialogStyle" >
+73-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:67:13-49
+74        </activity>
+75
+76        <!-- Required SDK核心功能 -->
+77        <activity
+77-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:72:9-82:20
+78            android:name="cn.jpush.android.ui.PushActivity"
+78-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:73:13-60
+79            android:configChanges="orientation|keyboardHidden"
+79-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:74:13-63
+80            android:exported="false"
+80-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:76:13-37
+81            android:theme="@android:style/Theme.NoTitleBar" >
+81-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:75:13-60
+82            <intent-filter>
+82-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:77:13-81:29
+83                <action android:name="cn.jpush.android.ui.PushActivity" />
+83-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:78:17-75
+83-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:78:25-72
+84
+85                <category android:name="android.intent.category.DEFAULT" />
+85-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:79:17-76
+85-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:79:27-73
+86                <category android:name="com.atguigu.beijingnews" />
+86-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:80:17-68
+86-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:80:27-65
+87            </intent-filter>
+88        </activity>
+89        <!-- Required  SDK核心功能 -->
+90        <service
+90-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:84:9-88:19
+91            android:name="cn.jpush.android.service.DownloadService"
+91-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:85:13-68
+92            android:enabled="true"
+92-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:86:13-35
+93            android:exported="false" >
+93-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:87:13-37
+94        </service>
+95
+96        <!-- Required SDK 核心功能 -->
+97        <!-- 可配置android:process参数将PushService放在其他进程中 -->
+98        <service
+98-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:93:9-103:19
+99            android:name="cn.jpush.android.service.PushService"
+99-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:94:13-64
+100            android:enabled="true"
+100-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:95:13-35
+101            android:exported="false" >
+101-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:96:13-37
+102            <intent-filter>
+102-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:97:13-102:29
+103                <action android:name="cn.jpush.android.intent.REGISTER" />
+103-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:98:17-75
+103-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:98:25-72
+104                <action android:name="cn.jpush.android.intent.REPORT" />
+104-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:99:17-73
+104-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:99:25-70
+105                <action android:name="cn.jpush.android.intent.PushService" />
+105-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:100:17-78
+105-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:100:25-75
+106                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+106-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:101:17-76
+106-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:101:25-73
+107            </intent-filter>
+108        </service>
+109
+110        <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+111        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+112        <service
+112-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:107:9-116:19
+113            android:name="cn.jpush.android.service.DaemonService"
+113-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:108:13-66
+114            android:enabled="true"
+114-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:109:13-35
+115            android:exported="true" >
+115-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:110:13-36
+116            <intent-filter>
+116-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:111:13-114:29
+117                <action android:name="cn.jpush.android.intent.DaemonService" />
+117-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:112:17-80
+117-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:112:25-77
+118
+119                <category android:name="com.atguigu.beijingnews" />
+119-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:80:17-68
+119-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:80:27-65
+120            </intent-filter>
+121        </service>
+122
+123        <!-- Required SDK核心功能 -->
+124        <receiver
+124-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:119:9-138:20
+125            android:name="cn.jpush.android.service.PushReceiver"
+125-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:120:13-65
+126            android:enabled="true"
+126-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:121:13-35
+127            android:exported="false" >
+127-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:122:13-37
+128            <intent-filter android:priority="1000" >
+128-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:123:13-126:29
+128-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:123:28-51
+129                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" /> <!-- Required  显示通知栏 -->
+129-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:124:17-94
+129-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:124:25-91
+130                <category android:name="com.atguigu.beijingnews" />
+130-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:80:17-68
+130-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:80:27-65
+131            </intent-filter>
+132            <intent-filter>
+132-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:127:13-130:29
+133                <action android:name="android.intent.action.USER_PRESENT" />
+133-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:128:17-77
+133-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:128:25-74
+134                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+134-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:129:17-79
+134-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:129:25-76
+135            </intent-filter>
+136            <!-- Optional -->
+137            <intent-filter>
+137-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:132:13-136:29
+138                <action android:name="android.intent.action.PACKAGE_ADDED" />
+138-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:133:17-78
+138-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:133:25-75
+139                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+139-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:134:17-80
+139-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:134:25-77
+140
+141                <data android:scheme="package" />
+141-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:135:17-50
+141-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:135:23-47
+142            </intent-filter>
+143        </receiver>
+144
+145        <!-- Required SDK核心功能 -->
+146        <receiver
+146-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:141:9-99
+147            android:name="cn.jpush.android.service.AlarmReceiver"
+147-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:141:19-72
+148            android:exported="false" />
+148-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:141:73-97
+149
+150        <!-- User defined.  For test only  用户自定义的广播接收器 -->
+151        <receiver
+151-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:144:9-157:20
+152            android:name="com.example.beijingnews.Receiver.MyReceiver"
+152-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:145:13-48
+153            android:enabled="true"
+153-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:147:13-35
+154            android:exported="false" >
+154-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:146:13-37
+155            <intent-filter>
+155-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:148:13-156:29
+156                <action android:name="cn.jpush.android.intent.REGISTRATION" /> <!-- Required  用户注册SDK的intent -->
+156-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:149:17-79
+156-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:149:25-76
+157                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" /> <!-- Required  用户接收SDK消息的intent -->
+157-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:150:17-83
+157-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:150:25-80
+158                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" /> <!-- Required  用户接收SDK通知栏信息的intent -->
+158-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:151:17-88
+158-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:151:25-85
+159                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" /> <!-- Required  用户打开自定义通知栏的intent -->
+159-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:152:17-86
+159-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:152:25-83
+160                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" /> <!-- Optional 用户接受Rich Push Javascript 回调函数的intent -->
+160-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:153:17-91
+160-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:153:25-88
+161                <action android:name="cn.jpush.android.intent.CONNECTION" /> <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+161-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:154:17-77
+161-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:154:25-74
+162                <category android:name="com.atguigu.beijingnews" />
+162-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:80:17-68
+162-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:80:27-65
+163            </intent-filter>
+164        </receiver>
+165
+166        <!-- Required  . Enable it you can get statistics data with channel -->
+167        <meta-data
+167-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:161:9-84
+168            android:name="JPUSH_CHANNEL"
+168-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:161:20-48
+169            android:value="developer-default" />
+169-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:161:49-82
+170        <meta-data
+170-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:162:9-91
+171            android:name="JPUSH_APPKEY"
+171-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:162:20-47
+172            android:value="9c308a65b28af94e6ad34e01" /> <!-- </>值来自开发者平台取得的AppKey -->
+172-->E:\AndroidStudioProjects\BeijingNews\app\src\main\AndroidManifest.xml:162:48-88
+173
+174    </application>
+175
+176</manifest>
